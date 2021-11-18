@@ -1,7 +1,5 @@
 import * as cdk from "@aws-cdk/core";
 import {
-  CfnEC2Fleet,
-  CfnSubnet,
   Instance,
   InstanceClass,
   InstanceSize,
